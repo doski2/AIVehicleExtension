@@ -66,13 +66,13 @@
 		<text name="AIVE_TRACE"                    text="Mostrar Rastro" />
 		<text name="AIVE_MAGIC"                    text="Refrescar Campo" />
 				
-		<text name="input_AIVE_HELPPANEL" 	       text="AI Vehicle: ???"/>
-		<text name="input_AIVE_STEER"              text="AI Vehicle: ???"/>
-		<text name="input_AIVE_SWAP_SIDE"          text="AI Vehicle: ???"/>
-		<text name="input_AIVE_ENABLE"             text="AI Vehicle: ???"/>
-		<text name="input_AIVE_UTURN_ON_OFF"       text="AI Vehicle: ???"/>
-		<text name="input_AIVE_STEERING"           text="AI Vehicle: ???"/>
-		<text name="input_AIVE_RAISE"       		   text="AI Vehicle: ???"/>
-		<text name="input_AIVE_START_AIVE"  		   text="AI Vehicle: ???"/>
+		<text name="input_AIVE_HELPPANEL" 	       text="IA alternativa: Mostrar / ocultar HUD"/>
+		<text name="input_AIVE_STEER"              text="AI alternativa : dirección automática"/>
+		<text name="input_AIVE_SWAP_SIDE"          text="IA alternativa : cambiar el lado activo"/>
+		<text name="input_AIVE_ENABLE"             text="IA alternativa : cambio de IA"/>
+		<text name="input_AIVE_UTURN_ON_OFF"       text="IA alternativa : modo circular activado / desactivado"/>
+		<text name="input_AIVE_STEERING"           text="IA alternativa : dirección manual"/>
+		<text name="input_AIVE_RAISE"              text="IA alternativa : Subir / bajar todas las herramientas"/>
+		<text name="input_AIVE_START_AIVE"         text="AI Vehicle: ???"/>
 	</texts>
 </l10n>
